@@ -17,10 +17,9 @@ Stats on top five countries by active daily participation:
 * Brazil – 4.61%
 * Germany – 3.40%
 
-Discord with over 70k+ users and 20k+ active users: <https://discord.gg/v8ggRJtv>
-Live player count : <https://playercounter.com/call-of-duty-warzone/>
-Reflects community interaction and LFG (looking for group) model
-
+* Discord with over 70k+ users and 20k+ active users: <https://discord.gg/v8ggRJtv>
+* Live player count : <https://playercounter.com/call-of-duty-warzone/>
+* Reflects community interaction and LFG (looking for group) model
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
