@@ -31,5 +31,3 @@ Before you begin, ensure you have met the following requirements:
 # APP OUTLINE
 
 ## Sign-up
-
-#This is a test
