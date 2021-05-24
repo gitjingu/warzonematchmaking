@@ -17,9 +17,11 @@ Stats on top five countries by active daily participation:
 * Brazil – 4.61%
 * Germany – 3.40%
 
-Discord with over 70k+ users and 20k+ active users: <https://discord.gg/v8ggRJtv>
-Live player count : <https://playercounter.com/call-of-duty-warzone/>
-Reflects community interaction and LFG (looking for group) model
+** STATS **
+
+- Discord with over 70k+ users and 20k+ active users: <https://discord.gg/v8ggRJtv>
+- Live player count : <https://playercounter.com/call-of-duty-warzone/>
+- Reflects community interaction and LFG (looking for group) model
 
 ## Prerequisites
 
@@ -54,4 +56,3 @@ Message tab will be inclusive of in-app voice chat and messages.
 ## TAB 4: Settings
 
 Ability to manipulate preferences from initial sign up 
-
